@@ -1,2 +1,3 @@
 # Python
-A python that contains python projects and python practice.
+A Python that contains Python projects and Python practice. 
+Here, I will share my learnings.
